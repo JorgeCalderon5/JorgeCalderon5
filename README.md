@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Estoy trabajando en mi tesis.
 <!--
 **JorgeCalderon5/JorgeCalderon5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
